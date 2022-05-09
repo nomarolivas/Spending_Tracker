@@ -1,2 +1,2 @@
 # Spending_Tracker
-Spending_Tracker iOS Application 
+Spending Tracker iOS Application 
