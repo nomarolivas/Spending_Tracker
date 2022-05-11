@@ -3,7 +3,7 @@ Spending Tracker
 By Nomar Olivas
 
 Proposal: 
-Create an iOS application that can keep track on all of a user’s spendings by logging the spendings based on 4 categories: Restaurant and Dining, Groceries, Shopping and Entertainment, and Cash, Checks, other. 
+Create an iOS application that can keep track on all of a user’s spendings by logging the spendings based on 4 categories: Restaurant and Dining, Groceries, Shopping and Entertainment, and Cash/Checks/other. 
 
 Must Have Features:
 - Ability to display overall total on starting screen
