@@ -1,0 +1,7 @@
+Attributes are listed down below:
+
+
+- For setting up, adding, and updating CoreData: https://www.youtube.com/watch?v=dIXkR-2rdvM
+
+- Deleting CoreData: https://stackoverflow.com/questions/1383598/core-data-quickest-way-to-delete-all-instances-of-an-entity
+
