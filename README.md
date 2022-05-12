@@ -29,4 +29,4 @@ Located in the Proposal folder as PDF Document.
 How to run project:
 1. Download the zip file
 2. Open the zip file
-3. Open Spending_Tracker file in Xcode
+3. Open Spending_Tracker folder in Xcode
